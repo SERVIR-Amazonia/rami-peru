@@ -6,7 +6,7 @@ var util = require('users/milagrosbecerra245/RAMI:Modules/utilities_v1.1');
 // var tempsign = require('users/luciovilla/phenology:library2'); 
 
 // Functions  
-ewhorhoehroewhr
+
 function DayOfYear1(date) {return ee.Date(date).format('YYYY-MM-dd');}
 function DayOfYear2(date) {return ee.Date(date).advance(6, 'day').format('YYYY-MM-dd');}
 
